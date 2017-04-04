@@ -10,8 +10,8 @@ function solveSquare(s) {
         console.log("sqaure's side must be positive, the value input is: " + s);
     }
     else{
-        console.log("Perimeter = " + sq.area(s));
-        console.log("Area = " + sq.perimeter(s));
+        console.log("Perimeter = " + sq.perimeter(s));
+        console.log("Area = " + sq.area(s));
     }
 }
 
